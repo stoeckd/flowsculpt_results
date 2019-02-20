@@ -93,8 +93,8 @@ Result pillar sequence = [7, 6, 21, 22, 29, 8, 30]
 
 ### test_1
 ```
-Fitness = 0.986
-Result pillar sequence = [5, 29, 31, 1, 1, 11, 26]
+Fitness = 0.966
+Result pillar sequence = [26, 6, 17, 29, 27, 5, 21]
 ```
 <table><tr><th> Target </th><th> Result </th></tr><tr>
 <td><img src="job_7/target.png" alt="target" width="400"/></td>
