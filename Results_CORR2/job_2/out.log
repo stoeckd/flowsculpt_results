@@ -1,0 +1,27 @@
+Warning: Desired fitness function not found. Defaulting to Corr2Fitness
+Starting FlowSculpt search.
+Parallel pool initialized with 12 threads.
+10% complete. Top fitness: 0.934. Estimating remaining time...
+20% complete. Top fitness: 0.945. Estimating remaining time...
+30% complete. Top fitness: 0.945. Estimated time remaining: 16 seconds.
+40% complete. Top fitness: 0.967. Estimated time remaining: 12 seconds.
+50% complete. Top fitness: 0.967. Estimated time remaining: 9.6 seconds.
+60% complete. Top fitness: 0.967. Estimated time remaining: 7.5 seconds.
+70% complete. Top fitness: 0.967. Estimated time remaining: 5.7 seconds.
+80% complete. Top fitness: 0.967. Estimated time remaining: 4.1 seconds.
+90% complete. Top fitness: 0.967. Estimated time remaining: 2.7 seconds.
+100% complete. Top fitness: 0.967. 
+Total runtime (ms): 20099
+{
+"global_top": {
+"score": 0.966829,
+"num_pillars": 7,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.3519, -0.09584, 1, 0.4197, 0.1444, 1, 0.3572, 0.01908, 1, 0.5032, 0.02481, 1, 0.4026, -0.02594, 1, 0.3772, 0.14, 1, 0.3282, -0.1164, 1],
+"indices": [2, 4, 3, 11, 3, 4, 2]
+}
+,
+"per_pillar": [
+]}
+job_name: add_vertex

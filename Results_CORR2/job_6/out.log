@@ -1,0 +1,27 @@
+Warning: Desired fitness function not found. Defaulting to Corr2Fitness
+Starting FlowSculpt search.
+Parallel pool initialized with 12 threads.
+10% complete. Top fitness: 0.959. Estimating remaining time...
+20% complete. Top fitness: 0.959. Estimating remaining time...
+30% complete. Top fitness: 0.959. Estimated time remaining: 16 seconds.
+40% complete. Top fitness: 0.959. Estimated time remaining: 12 seconds.
+50% complete. Top fitness: 0.967. Estimated time remaining: 11 seconds.
+60% complete. Top fitness: 0.967. Estimated time remaining: 8.3 seconds.
+70% complete. Top fitness: 0.967. Estimated time remaining: 6.3 seconds.
+80% complete. Top fitness: 0.967. Estimated time remaining: 5.6 seconds.
+90% complete. Top fitness: 0.967. Estimated time remaining: 3.6 seconds.
+100% complete. Top fitness: 0.967. 
+Total runtime (ms): 23424
+{
+"global_top": {
+"score": 0.967444,
+"num_pillars": 7,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.6276, 0.3966, 1, 0.3798, 0.1054, 1, 0.3725, 0.5492, 1, 0.6408, 0.4201, 1, 0.5903, 0.2745, 1, 0.7948, 0.3827, 1, 0.8099, 0.3513, 1],
+"indices": [22, 4, 7, 22, 21, 30, 30]
+}
+,
+"per_pillar": [
+]}
+job_name: test_0
