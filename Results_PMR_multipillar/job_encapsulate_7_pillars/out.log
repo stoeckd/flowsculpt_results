@@ -1,0 +1,26 @@
+Starting FlowSculpt search.
+Parallel pool initialized with 12 threads.
+10% complete. Top fitness: 0.952. Estimating remaining time...
+20% complete. Top fitness: 0.954. Estimating remaining time...
+30% complete. Top fitness: 0.957. Estimated time remaining: 16 seconds.
+40% complete. Top fitness: 0.957. Estimated time remaining: 14 seconds.
+50% complete. Top fitness: 0.957. Estimated time remaining: 12 seconds.
+60% complete. Top fitness: 0.957. Estimated time remaining: 10 seconds.
+70% complete. Top fitness: 0.957. Estimated time remaining: 8 seconds.
+80% complete. Top fitness: 0.957. Estimated time remaining: 6 seconds.
+90% complete. Top fitness: 0.957. Estimated time remaining: 4.4 seconds.
+100% complete. Top fitness: 0.957. 
+Total runtime (ms): 24436
+{
+"global_top": {
+"score": 0.9574,
+"num_pillars": 7,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.8025, 0.3759, 1, 0.3125, 0.5218, 1, 0.7985, 0.4003, 1, 0.5895, -0.03913, 1, 0.7912, 0.2763, 1, 0.7787, 0.1489, 1, 0.7465, 0.1705, 1],
+"indices": [30, 7, 30, 19, 29, 28, 28]
+}
+,
+"per_pillar": [
+]}
+job_name: encapsulate

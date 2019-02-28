@@ -1,0 +1,26 @@
+Starting FlowSculpt search.
+Parallel pool initialized with 12 threads.
+10% complete. Top fitness: 0.992. Estimating remaining time...
+20% complete. Top fitness: 0.992. Estimating remaining time...
+30% complete. Top fitness: 0.992. Estimated time remaining: 19 seconds.
+40% complete. Top fitness: 0.992. Estimated time remaining: 16 seconds.
+50% complete. Top fitness: 0.992. Estimated time remaining: 13 seconds.
+60% complete. Top fitness: 0.992. Estimated time remaining: 11 seconds.
+70% complete. Top fitness: 0.992. Estimated time remaining: 8.6 seconds.
+80% complete. Top fitness: 0.992. Estimated time remaining: 6.4 seconds.
+90% complete. Top fitness: 0.992. Estimated time remaining: 4.4 seconds.
+100% complete. Top fitness: 0.992. 
+Total runtime (ms): 27657
+{
+"global_top": {
+"score": 0.991975,
+"num_pillars": 7,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.3924, 0.04334, 1, 0.4041, 0.09692, 1, 0.3374, -0.08734, 1, 0.3239, 0.003178, 1, 0.3142, 0.06754, 1, 0.3935, -0.1653, 1, 0.4739, -0.02144, 1],
+"indices": [3, 4, 2, 3, 4, 2, 11]
+}
+,
+"per_pillar": [
+]}
+job_name: add_vertex

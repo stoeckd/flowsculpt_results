@@ -66,6 +66,17 @@ Result pillar sequence = [7, 3, 11, 3, 2, 4]
 <td><img src="job_add_vertex_6_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
+### add_vertex
+```
+Fitness = 0.992
+Result pillar sequence = [3, 4, 2, 3, 4, 2, 11]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_add_vertex_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_add_vertex_7_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
 ### dumbbell_1
 ```
 Fitness = 0.779
@@ -130,6 +141,17 @@ Result pillar sequence = [27, 27, 27, 27, 3, 19]
 <td><img src="job_dumbbell_1_6_pillars/target.png" alt="target" width="400"/></td>
 
 <td><img src="job_dumbbell_1_6_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
+### dumbbell_1
+```
+Fitness = 0.996
+Result pillar sequence = [27, 27, 27, 15, 19, 27, 11]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_dumbbell_1_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_dumbbell_1_7_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
 ### dummbell_2
@@ -198,6 +220,17 @@ Result pillar sequence = [19, 19, 19, 27, 27, 27]
 <td><img src="job_dummbell_2_6_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
+### dummbell_2
+```
+Fitness = 0.969
+Result pillar sequence = [19, 11, 19, 27, 27, 27, 27]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_dummbell_2_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_dummbell_2_7_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
 ### encapsulate
 ```
 Fitness = 0.731
@@ -262,6 +295,17 @@ Result pillar sequence = [31, 28, 29, 11, 29, 28]
 <td><img src="job_encapsulate_6_pillars/target.png" alt="target" width="400"/></td>
 
 <td><img src="job_encapsulate_6_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
+### encapsulate
+```
+Fitness = 0.957
+Result pillar sequence = [30, 7, 30, 19, 29, 28, 28]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_encapsulate_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_encapsulate_7_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
 ### shift
@@ -330,6 +374,17 @@ Result pillar sequence = [11, 19, 27, 28, 29, 17]
 <td><img src="job_shift_6_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
+### shift
+```
+Fitness = 0.990
+Result pillar sequence = [11, 27, 27, 12, 28, 31, 31]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_shift_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_shift_7_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
 ### split
 ```
 Fitness = 0.754
@@ -394,6 +449,17 @@ Result pillar sequence = [27, 27, 27, 27, 27, 27]
 <td><img src="job_split_6_pillars/target.png" alt="target" width="400"/></td>
 
 <td><img src="job_split_6_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
+### split
+```
+Fitness = 1.000
+Result pillar sequence = [19, 19, 19, 19, 19, 19, 19]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_split_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_split_7_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
 ### test_0
@@ -462,6 +528,17 @@ Result pillar sequence = [5, 14, 15, 29, 30, 30]
 <td><img src="job_test_0_6_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
+### test_0
+```
+Fitness = 0.988
+Result pillar sequence = [14, 30, 4, 14, 13, 30, 30]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_test_0_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_test_0_7_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
 ### test_1
 ```
 Fitness = 0.865
@@ -526,6 +603,17 @@ Result pillar sequence = [10, 25, 25, 29, 19, 20]
 <td><img src="job_test_1_6_pillars/target.png" alt="target" width="400"/></td>
 
 <td><img src="job_test_1_6_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
+### test_1
+```
+Fitness = 0.957
+Result pillar sequence = [7, 26, 25, 28, 3, 11, 21]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_test_1_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_test_1_7_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
 ### test_2
@@ -594,6 +682,17 @@ Result pillar sequence = [17, 17, 15, 25, 27, 16]
 <td><img src="job_test_2_6_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
+### test_2
+```
+Fitness = 0.974
+Result pillar sequence = [9, 17, 25, 7, 15, 27, 9]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_test_2_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_test_2_7_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
 ### test_3
 ```
 Fitness = 0.800
@@ -658,5 +757,16 @@ Result pillar sequence = [29, 13, 24, 9, 25, 13]
 <td><img src="job_test_3_6_pillars/target.png" alt="target" width="400"/></td>
 
 <td><img src="job_test_3_6_pillars/top_result_0.png" alt="result" width="400"/></td>
+</table>
+
+### test_3
+```
+Fitness = 0.977
+Result pillar sequence = [28, 25, 14, 15, 1, 25, 13]
+```
+<table><tr><th> Target </th><th> Result </th></tr><tr>
+<td><img src="job_test_3_7_pillars/target.png" alt="target" width="400"/></td>
+
+<td><img src="job_test_3_7_pillars/top_result_0.png" alt="result" width="400"/></td>
 </table>
 
