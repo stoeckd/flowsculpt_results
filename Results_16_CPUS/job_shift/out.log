@@ -1,0 +1,139 @@
+Starting FlowSculpt search.
+Parallel pool initialized with 16 threads.
+1.43% complete. Top fitness: 0.854. Estimating remaining time...
+2.86% complete. Top fitness: 0.854. Estimating remaining time...
+4.29% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+5.71% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+7.14% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+8.57% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+10% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+11.4% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+12.9% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+14.3% complete. Top fitness: 0.854. Estimated time remaining: 0 seconds.
+15.7% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+17.1% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+18.6% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+20% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+21.4% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+22.9% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+24.3% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+25.7% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+27.1% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+28.6% complete. Top fitness: 0.903. Estimated time remaining: 0 seconds.
+30% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+31.4% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+32.9% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+34.3% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+35.7% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+37.1% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+38.6% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+40% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+41.4% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+42.9% complete. Top fitness: 0.935. Estimated time remaining: 0 seconds.
+44.3% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+45.7% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+47.1% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+48.6% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+50% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+51.4% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+52.9% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+54.3% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+55.7% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+57.1% complete. Top fitness: 0.953. Estimated time remaining: 0 seconds.
+58.6% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+60% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+61.4% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+62.9% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+64.3% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+65.7% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+67.1% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+68.6% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+70% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+71.4% complete. Top fitness: 0.969. Estimated time remaining: 0 seconds.
+72.9% complete. Top fitness: 0.976. Estimated time remaining: 0 seconds.
+74.3% complete. Top fitness: 0.976. Estimated time remaining: 0 seconds.
+75.7% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+77.1% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+78.6% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+80% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+81.4% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+82.9% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+84.3% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+85.7% complete. Top fitness: 0.982. Estimated time remaining: 0 seconds.
+87.1% complete. Top fitness: 0.983. Estimated time remaining: 0 seconds.
+88.6% complete. Top fitness: 0.983. Estimated time remaining: 0 seconds.
+90% complete. Top fitness: 0.983. Estimated time remaining: 0 seconds.
+91.4% complete. Top fitness: 0.983. Estimated time remaining: 0 seconds.
+92.9% complete. Top fitness: 0.983. Estimated time remaining: 0 seconds.
+94.3% complete. Top fitness: 0.987. Estimated time remaining: 0 seconds.
+95.7% complete. Top fitness: 0.987. Estimated time remaining: 0 seconds.
+97.1% complete. Top fitness: 0.987. Estimated time remaining: 0 seconds.
+98.6% complete. Top fitness: 0.987. Estimated time remaining: 0 seconds.
+100% complete. Top fitness: 0.987. 
+Total runtime (ms): 18938
+{
+"global_top": {
+"score": 0.9873,
+"num_pillars": 7,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.5064, -0.02785, 1, 0.5953, 0.01516, 1, 0.6269, -0.03282, 1, 0.8007, 0.167, 1, 0.3455, 0.2232, 1, 0.7613, 0.2591, 1, 0.7627, -0.2865, 1],
+"indices": [11, 19, 19, 28, 5, 29, 25]
+}
+,
+"per_pillar": [
+{
+"score": 0.8538,
+"num_pillars": 1,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.8025, -0.02001, 1],
+"indices": [27]
+}
+,
+{
+"score": 0.9029,
+"num_pillars": 2,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.7835, -0.005357, 1, 0.7984, 0.1054, 1],
+"indices": [27, 28]
+}
+,
+{
+"score": 0.9348,
+"num_pillars": 3,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.7613, 0.002035, 1, 0.7736, -0.01717, 1, 0.8095, 0.1774, 1],
+"indices": [27, 27, 28]
+}
+,
+{
+"score": 0.9525,
+"num_pillars": 4,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.8112, -0.01275, 1, 0.811, 0.005147, 1, 0.7452, 0.1628, 1, 0.7269, 0.5131, 1],
+"indices": [27, 27, 28, 31]
+}
+,
+{
+"score": 0.9689,
+"num_pillars": 5,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.8102, -0.02726, 1, 0.7939, -0.005145, 1, 0.4957, 0.0976, 1, 0.7558, 0.1785, 1, 0.6691, -0.4248, 1],
+"indices": [27, 27, 12, 28, 16]
+}
+,
+{
+"score": 0.9825,
+"num_pillars": 6,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.7643, 0.05065, 1, 0.7996, 0.02409, 1, 0.3125, 0.135, 1, 0.5395, 0.1145, 1, 0.7577, 0.1617, 1, 0.7266, -0.4154, 1],
+"indices": [27, 27, 4, 12, 28, 24]
+}
+]}
+job_name: shift
