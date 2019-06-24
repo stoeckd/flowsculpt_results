@@ -1,0 +1,33 @@
+Starting FlowSculpt search.
+10% complete. Top fitness: 0.981. Estimating remaining time...
+20% complete. Top fitness: 0.981. Estimating remaining time...
+30% complete. Top fitness: 0.985. Estimated time remaining: 19 seconds.
+40% complete. Top fitness: 0.986. Estimated time remaining: 18 seconds.
+50% complete. Top fitness: 0.986. Estimated time remaining: 16 seconds.
+60% complete. Top fitness: 0.986. Estimated time remaining: 14 seconds.
+70% complete. Top fitness: 0.986. Estimated time remaining: 11 seconds.
+80% complete. Top fitness: 0.986. Estimated time remaining: 10 seconds.
+90% complete. Top fitness: 0.986. Estimated time remaining: 6.9 seconds.
+100% complete. Top fitness: 0.986. 
+Total runtime (ms): 38564
+{
+"global_top": {
+"score": 0.985912,
+"num_pillars": 5,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.4499, -0.03694, 1, 0.3343, 0.01067, 1, 0.3403, 0.005257, 1, 0.3805, -0.08318, 1, 0.3125, 0.147, 1],
+"indices": [11, 3, 3, 2, 4]
+}
+,
+"per_pillar": [
+{
+"score": 0.9859,
+"num_pillars": 5,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.4499, -0.03694, 1, 0.3343, 0.01067, 1, 0.3403, 0.005257, 1, 0.3805, -0.08318, 1, 0.3125, 0.147, 1],
+"indices": [11, 3, 3, 2, 4]
+}
+]}
+job_name: add_vertex

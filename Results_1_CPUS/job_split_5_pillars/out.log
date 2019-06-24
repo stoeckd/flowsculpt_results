@@ -1,0 +1,33 @@
+Starting FlowSculpt search.
+10% complete. Top fitness: 0.903. Estimating remaining time...
+20% complete. Top fitness: 0.903. Estimating remaining time...
+30% complete. Top fitness: 0.903. Estimated time remaining: 21 seconds.
+40% complete. Top fitness: 0.903. Estimated time remaining: 18 seconds.
+50% complete. Top fitness: 0.903. Estimated time remaining: 16 seconds.
+60% complete. Top fitness: 0.903. Estimated time remaining: 12 seconds.
+70% complete. Top fitness: 0.903. Estimated time remaining: 9.7 seconds.
+80% complete. Top fitness: 0.903. Estimated time remaining: 7.5 seconds.
+90% complete. Top fitness: 0.903. Estimated time remaining: 4.9 seconds.
+100% complete. Top fitness: 0.903. 
+Total runtime (ms): 31475
+{
+"global_top": {
+"score": 0.90255,
+"num_pillars": 5,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.7839, -0.01095, 1, 0.812, -0.02283, 1, 0.7823, -0.01725, 1, 0.8074, -0.05259, 1, 0.8123, -0.02444, 1],
+"indices": [27, 27, 27, 27, 27]
+}
+,
+"per_pillar": [
+{
+"score": 0.9025,
+"num_pillars": 5,
+"inlet": {
+"widths" : [0.4, 0.2, 0.4],"material" : [0, 1, 0]},
+"seq": [0.7839, -0.01095, 1, 0.812, -0.02283, 1, 0.7823, -0.01725, 1, 0.8074, -0.05259, 1, 0.8123, -0.02444, 1],
+"indices": [27, 27, 27, 27, 27]
+}
+]}
+job_name: split
